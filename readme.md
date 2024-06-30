@@ -3,6 +3,9 @@
 Using an chroot environment such as UserLand we can download RTL-AMR, use the RTL-SDR blog RTL_TCP server and this app to display nice and 
 clean RTL-AMR Result onto an android devices screen.
 
+![Screenshot](https://github.com/SarahRoseLives/AndAMR/blob/master/rtlamr.jpg)
+
+
 ## Installation
 
 * Install Userland or another chroot app
